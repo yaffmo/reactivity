@@ -11,7 +11,7 @@ export const NavBar = () => {
             alt="logo"
             style={{ marginRight: "10px" }}
           />
-          Reactivity NEW
+          Reactivity
         </Menu.Item>
         <Menu.Item name="messages" />
         <Menu.Item header>
